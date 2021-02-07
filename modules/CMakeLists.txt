@@ -1,0 +1,1 @@
+add_executable(modules_test01 test01.cpp utils.cpp)
